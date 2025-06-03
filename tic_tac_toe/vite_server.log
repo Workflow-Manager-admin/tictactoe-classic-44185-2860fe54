@@ -7,3 +7,5 @@
 
   ➜  Local:   http://localhost:3000/
   ➜  Network: http://172.17.0.2:3000/
+11:04:23 PM [vite] (client) page reload src/main.js
+11:04:24 PM [vite] (client) page reload src/counter.js
